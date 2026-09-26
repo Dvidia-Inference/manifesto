@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 640" role="img" aria-labelledby="infraTitle infraDesc">
+  <title id="infraTitle">OpenWeights Terminal inside dvidia.org</title>
+  <desc id="infraDesc">dvidia.org is the house. This repository is the desk: boards and a pool. The LiteLLM fork is the caller gate. A GPU box pulls jobs through its own engine.</desc>
+  <style>
+    text { font-family: ui-sans-serif, system-ui, sans-serif; fill: #0F3D2E; }
+    .t { font-size: 15px; font-weight: 650; }
+    .s { font-size: 12px; fill: #3e5c4c; }
+    .box { fill: #f7f6f2; stroke: #0F3D2E; stroke-width: 1.5; }
+    .line { stroke: #0F3D2E; stroke-width: 1.25; fill: none; }
+  </style>
+  <rect class="box" x="270" y="8" width="300" height="58" rx="12"/>
+  <circle cx="300" cy="37" r="12" fill="none" stroke="#0F3D2E" stroke-width="3"/>
+  <rect x="306" y="40" width="8" height="8" fill="#0F3D2E"/>
+  <text class="t" x="326" y="33">dvidia.org</text>
+  <text class="s" x="326" y="50">skill market</text>
+  <path class="line" d="M420 66 V92"/>
+  <rect x="416" y="88" width="8" height="8" fill="#0F3D2E"/>
+  <rect class="box" x="170" y="96" width="500" height="64" rx="12"/>
+  <text class="t" x="190" y="122">OpenWeights Terminal</text>
+  <text class="s" x="190" y="142">this repository · owterminal.com</text>
+  <path class="line" d="M420 160 V184 H210 V200 M420 184 H630 V200"/>
+  <rect class="box" x="40" y="200" width="340" height="78" rx="12"/>
+  <text class="t" x="58" y="228">Boards</text>
+  <text class="s" x="58" y="248">Measurements of open weights.</text>
+  <text class="s" x="58" y="264">Not a shop.</text>
+  <rect class="box" x="460" y="200" width="340" height="78" rx="12"/>
+  <text class="t" x="478" y="228">Pool</text>
+  <text class="s" x="478" y="248">Queue, ledger, cheapest live offer.</text>
+  <text class="s" x="478" y="264">Host keeps 80. Desk keeps 20.</text>
+  <path class="line" d="M630 278 V312 H210 V336"/>
+  <rect x="206" y="332" width="8" height="8" fill="#0F3D2E"/>
+  <rect class="box" x="40" y="336" width="340" height="104" rx="12"/>
+  <text class="t" x="58" y="364">Caller gate</text>
+  <text class="s" x="58" y="384">dvidia-inference/litellm</text>
+  <text class="s" x="58" y="402">Virtual key, budget, rate limit.</text>
+  <text class="s" x="58" y="420">One call into the pool. No retry.</text>
+  <path class="line" d="M630 278 V336"/>
+  <rect x="626" y="332" width="8" height="8" fill="#0F3D2E"/>
+  <rect class="box" x="460" y="336" width="340" height="80" rx="12"/>
+  <text class="t" x="478" y="364">Hosts</text>
+  <text class="s" x="478" y="384">A browser tab, or pool-worker.</text>
+  <text class="s" x="478" y="400">One process per model.</text>
+  <path class="line" d="M630 416 V440"/>
+  <rect class="box" x="460" y="440" width="340" height="68" rx="12"/>
+  <text class="t" x="478" y="468">Local engine</text>
+  <text class="s" x="478" y="488">Their LiteLLM, or the engine itself.</text>
+  <path class="line" d="M630 508 V532"/>
+  <rect class="box" x="460" y="532" width="340" height="56" rx="12"/>
+  <text class="t" x="478" y="564">GPU</text>
+</svg>
