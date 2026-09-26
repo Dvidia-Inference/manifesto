@@ -1,10 +1,8 @@
-# Open weights
+# OpenWeights Terminal
 
-![OpenWeights](manifesto.jpg)
+![OpenWeights Terminal](manifesto.jpg)
 
-This is the file behind [owterminal.com/manifesto](https://owterminal.com/manifesto). The page and this repository say the same thing. If a sentence must change, change both.
-
-A product of [dvidia.org](https://dvidia.org).
+This is the OpenWeights essay, not a manifesto for [dvidia.org](https://dvidia.org). Dvidia is the house. This file is one product of that house: the desk at [owterminal.com/manifesto](https://owterminal.com/manifesto). The page and this repository say the same thing. If a sentence must change, change both.
 
 - [English](essay/en.md)
 - [Español](essay/es.md)
